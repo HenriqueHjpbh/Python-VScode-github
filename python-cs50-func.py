@@ -1,6 +1,6 @@
 def main():
     name = input("what's your name ?")
-    fuck_you(name)
+    hello(name)
     #type Ezequiel pls
 
 
