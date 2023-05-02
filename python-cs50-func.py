@@ -4,8 +4,8 @@ def main():
     #type Ezequiel pls
 
 
-def fuck_you(to="world"):
-    print('fuck you,',to)
+def hello(to="world"):
+    print('Hello,',to)
     
     
 #__name__ == '__main__' garante que não haja erros de execução se o programa chamar main() na hora errada
